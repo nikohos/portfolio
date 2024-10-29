@@ -1,5 +1,5 @@
-# portfolio
-All the projects in GitHub I have contributed to
+# Portfolio
+All the projects in GitHub I have contributed to:
 ## Projects
 
 ### SpedenSpelit

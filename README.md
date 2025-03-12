@@ -9,3 +9,8 @@ All the projects in GitHub I have contributed to:
 ### Object-Oriented Programming course
 - **Link**: [olio-ohjelmointi](https://github.com/nikohos/olio-ohjelmointi)
 - **My Contributions**: All coding done by me
+
+### Bank-Automat
+- **Link**: [Bank-Automat]((https://github.com/tvt24kmo-project/group_6))
+- **My Contributions**: UML Diagrams, Transfer, Account, Readme, Presentation etc
+

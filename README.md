@@ -14,3 +14,6 @@ All the projects in GitHub I have contributed to:
 - **Link**: [Bank-Automat]((https://github.com/tvt24kmo-project/group_6))
 - **My Contributions**: UML Diagrams, Transfer, Account, Readme, Presentation etc
 
+### Web Applications course, Music App
+- **Link**: [music-app](https://github.com/nikohos/music-app)
+- **My Contributions**: All coding done by me
